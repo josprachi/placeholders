@@ -27,7 +27,7 @@ You can embed a YouTube video using a link:
 You can also embed HTML5 videos:
 
 <video width="320" height="240" controls>
-  <source src="https://github.com/josprachi/placeholders/raw/main/why%20smoking%20is%20bad.mp4" type="video/mp4">
+  <source src='https://github.com/josprachi/placeholders/raw/main/why%20smoking%20is%20bad.mp4' type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
