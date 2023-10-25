@@ -11,7 +11,7 @@
 
   },
   {
-    "questiontype": "GenderSelection",
+    "questiontype": "button",
     "question": "I identify As",
     "options": [
       "Male",
@@ -23,7 +23,7 @@
   },
   
   {
-    "questiontype": "Option Selection",
+    "questiontype": "button",
     "question": "My Age is*",
     "options": [
       " < 18 year old",
@@ -38,7 +38,7 @@
   
   },
   {
-    "questiontype": "Option Selection",
+    "questiontype": "button",
     "question": "In what form do you consume nicotine? *",
     "options": [
       "Smoking cigarettes",
@@ -49,7 +49,7 @@
   
   },
   {
-    "questiontype": "Option Selection",
+    "questiontype": "button",
     "question": "I started Smoking --- years ago   , No of cigarettes I currently smoke , I have already Quit *",
     "options": [
      "",
@@ -71,7 +71,7 @@
    
   },
   {
-    "questiontype": "Option Selection",
+    "questiontype": "button",
     "question": "I pay  --- rs per cigarette    *",
     "options": [
      "",
@@ -104,7 +104,7 @@
    
   },
   {
-    "questiontype": "Option Selection",
+    "questiontype": "button",
     "question": "Which of the smoking related health issues are you facing currently ?*",
     "options": [
       "Tiredness",
@@ -134,7 +134,7 @@
   
   },
   {
-    "questiontype": "Option Selection",
+    "questiontype": "button",
     "question": " Where do you stand in quit smoking Journey?*",
     "options": [
       "I have decided to quit smoking",
@@ -148,7 +148,7 @@
   
   },
   {
-    "questiontype": "Option Selection",
+    "questiontype": "button",
     "question": " What does quitting smoking mean to you?*",
     "options": [
       "Better health",
@@ -163,7 +163,7 @@
   },
 
   {
-    "questiontype": "Option Selection",
+    "questiontype": "button",
     "question": " How many times have tried to quit in the past?*",
     "options": [
       "Never",
@@ -176,7 +176,7 @@
    
   },
   {
-    "questiontype": "Option Selection",
+    "questiontype": "button",
     "question": " Which technique have you used to try and quit? *",
     "options": [
       "Cold Turkey",
@@ -192,7 +192,7 @@
   
   },
   {
-    "questiontype": "Option Selection",
+    "questiontype": "button",
     "question": "  What challenges did you face in your previous quitting attempts that caused you to relapse?*",
     "options": [
       "Couldn't resist cravings",
@@ -206,7 +206,7 @@
   
   },
   {
-    "questiontype": "Option Selection",
+    "questiontype": "button",
     "question": "  What challenges did you face in your previous quitting attempts that caused you to relapse?*",
     "options": [
       "Couldn't resist cravings",
@@ -220,7 +220,7 @@
    
   },
   {
-    "questiontype": "Option Selection",
+    "questiontype": "button",
     "question": "  I Believe taht smoking/vaping/chewing..*",
     "options": [
       "Tastes good",
